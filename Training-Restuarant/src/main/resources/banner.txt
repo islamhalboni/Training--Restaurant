@@ -1,0 +1,24 @@
+
+
+
+               AAA                 SSSSSSSSSSSSSSS              AAA               LLLLLLLLLLL
+              A:::A              SS:::::::::::::::S            A:::A              L:::::::::L
+             A:::::A            S:::::SSSSSS::::::S           A:::::A             L:::::::::L
+            A:::::::A           S:::::S     SSSSSSS          A:::::::A            LL:::::::LL
+           A:::::::::A          S:::::S                     A:::::::::A             L:::::L
+          A:::::A:::::A         S:::::S                    A:::::A:::::A            L:::::L
+         A:::::A A:::::A         S::::SSSS                A:::::A A:::::A           L:::::L
+        A:::::A   A:::::A         SS::::::SSSSS          A:::::A   A:::::A          L:::::L
+       A:::::A     A:::::A          SSS::::::::SS       A:::::A     A:::::A         L:::::L
+      A:::::AAAAAAAAA:::::A            SSSSSS::::S     A:::::AAAAAAAAA:::::A        L:::::L
+     A:::::::::::::::::::::A                S:::::S   A:::::::::::::::::::::A       L:::::L
+    A:::::AAAAAAAAAAAAA:::::A               S:::::S  A:::::AAAAAAAAAAAAA:::::A      L:::::L         LLLLLL
+   A:::::A             A:::::A  SSSSSSS     S:::::S A:::::A             A:::::A   LL:::::::LLLLLLLLL:::::L
+  A:::::A               A:::::A S::::::SSSSSS:::::SA:::::A               A:::::A  L::::::::::::::::::::::L
+ A:::::A                 A:::::AS:::::::::::::::SSA:::::A                 A:::::A L::::::::::::::::::::::L
+AAAAAAA                   AAAAAAASSSSSSSSSSSSSSS AAAAAAA                   AAAAAAALLLLLLLLLLLLLLLLLLLLLLLL
+
+
+
+                                      Training-Project
+
